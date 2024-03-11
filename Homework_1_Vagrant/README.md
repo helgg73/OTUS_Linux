@@ -1,4 +1,4 @@
-# OTUS_Linux
+# OTUS_Linux Homework 1
 
 Изменен box на доступный в репозитории из России.
 
